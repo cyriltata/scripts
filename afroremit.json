@@ -31,5 +31,16 @@
 		"Momo": "",
 		"Profit": 0,
 		"Remark": "niko"
+	},
+	{
+		"date": "",
+		"Out": "=SUM(1,2,4)",
+		"Recv_E": "76.67",
+		"Recv_F": "0",
+		"Sent_F": "50000",
+		"Charges": "0",
+		"Momo": "",
+		"Profit": 0,
+		"Remark": "niko"
 	}
 ]
